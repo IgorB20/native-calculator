@@ -1,6 +1,6 @@
 # Native Android Calculator App
 
-This app was my first native app made for my subject at college. It uses a lib for eval the expressions.
+This was my first native app made in a college subject. It uses a lib for eval the expressions.
 
 ## App preview
 
